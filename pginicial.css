@@ -1,0 +1,121 @@
+*{
+    padding: 0;
+    padding-right: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+header{
+    background-color: #f7941d;
+    text-align: center;  
+    height: 150px;
+}
+.logo{
+   margin-right: 1500px;
+   position: absolute;
+   top: 20px;
+   margin-left: 50px;
+}
+h1{
+ color: #004c94;
+ font-style: helvetica;
+ padding: 10px;
+ font-size: 100px;
+}
+h2{
+    text-align: center;
+    color: #004c94;
+    font-size: 50px;
+}
+h3{
+    font-size: 25px;
+    padding: 20px;
+}
+#nomes{
+    white-space: nowrap;
+}
+.Nome{
+    display: inline-block;
+    width:25em;
+    text-align: center;
+}
+#tecnologia{
+    padding-left: 315px;
+    padding-top: 50px;
+    text-align: left;
+    font-size: 30px;
+    color: blue;
+}
+.temaseimagem{
+    display: flex;
+    justify-content: space-between;
+  
+}
+.tecnimg{
+    padding-top: 50px;
+    padding-left:200px;
+}
+.TemasTi{
+    text-align: right;
+    padding-right: 200px;
+    font-size: 50px;
+    vertical-align: 100px;
+    list-style: none;
+}
+.CH{
+    padding-left: 205px;
+    padding-top: 50px;
+    text-align: left;
+    font-size: 30px;
+    color: blue;
+}
+.imgCH{
+    padding-top: 50px;
+    padding-left:195px;
+}
+.Mat{
+    padding-left: 250px;
+    padding-top: 50px;
+    text-align: left;
+    font-size: 30px;
+    color: white;
+}
+.imgmat{
+    max-width: 30%;
+    height: auto;
+    padding-top: 50px;
+    padding-left:200px;
+}
+.Ling{
+    padding-left: 250px;
+    padding-top: 50px;
+    text-align: left;
+    font-size: 30px;
+    color: white;
+}
+.imgling{
+    padding-top: 50px;
+    padding-left:200px;
+}
+.CN{
+    padding-left: 205px;
+    padding-top: 50px;
+    text-align: left;
+    font-size: 30px;
+    color: blue;
+}
+.imgCN{
+    padding-top: 50px;
+    padding-left:210px;
+    margin-left: 10px;
+    padding-bottom: 45px;
+}
+footer{
+    background-color: #f7941d;
+    text-align: center;  
+    height: 150px;
+    position: relative;
+    bottom: 0;
+    left: 0;
+}
+.
